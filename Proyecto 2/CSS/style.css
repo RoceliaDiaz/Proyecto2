@@ -1,0 +1,29 @@
+
+body {
+    background-color: #665959;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+}h1 {
+ color:white ; 
+ background-color: #12E2E3;
+}
+table{
+    background-color: #C0C2C3;
+}
+ul li {
+    background-color: #16361D;
+    }
+div h2{
+    background-color: #12E2E3;
+}
+h2 p {
+    background-color: #665959;
+}
+div{
+    background-color: #ECAB9E;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    height: 100%;
+    height: 100%;
+}
+ 
